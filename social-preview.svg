@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f7f8fc"/>
+  <circle cx="1040" cy="80" r="250" fill="#e8ebf6"/>
+  <rect x="110" y="150" width="110" height="110" rx="28" fill="#283d8f"/>
+  <text x="165" y="229" text-anchor="middle" font-family="Arial, Helvetica, sans-serif"
+        font-size="74" font-weight="700" fill="white">D</text>
+  <text x="110" y="350" font-family="Arial, Helvetica, sans-serif"
+        font-size="72" font-weight="700" fill="#152033">Diondi LLC</text>
+  <text x="110" y="420" font-family="Arial, Helvetica, sans-serif"
+        font-size="34" fill="#5f6b7a">Building practical software for modern organizations.</text>
+  <text x="110" y="505" font-family="Arial, Helvetica, sans-serif"
+        font-size="27" font-weight="700" fill="#283d8f">Home of ClassFlow System</text>
+</svg>
