@@ -1,1 +1,1 @@
-Diondi LLC static website for GitHub Pages. Upload all files to repository root. Pages URLs: /privacy.html, /terms.html, /sms.html. Review policy statements for accuracy before Twilio submission.
+Diondi LLC static GitHub Pages website. Upload all files to the repository root, commit to main, and keep the existing GitHub Pages custom domain diondi.org. URLs: /privacy.html, /terms.html, /sms.html. Review legal text and verify actual SMS consent workflows before submitting to Twilio.
